@@ -1,6 +1,6 @@
-# WebSecSimScanner
+# WebSecScanner
 
-**WebSecSimScanner** is a lightweight web vulnerability scanner tool for simulating real-time scanning on locally hosted websites.
+**WebSecScanner** is a lightweight web vulnerability scanner tool for simulating real-time scanning on locally hosted websites.
 
 ## ✅ Features
 
